@@ -1,0 +1,17 @@
+.fundo-laranja{
+    background-color:rgb(255, 124, 17);
+}
+.padd-padrao{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bg-preto{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 8px;
+}
+
+#banner-top{
+    width: 80%;
+    margin: 0 auto;
+}
